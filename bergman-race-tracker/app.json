@@ -17,8 +17,7 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false,
-      "package": "com.vaibhav6577.bergmanracetracker"
+      "predictiveBackGestureEnabled": false
     },
     "web": {
       "output": "static",
@@ -40,13 +39,6 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "a94f31c8-58f7-444e-a09e-ebca10d7cf20"
-      }
-    },
-    "owner": "vaibhav6577"
+    }
   }
 }
